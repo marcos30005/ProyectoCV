@@ -1,0 +1,37 @@
+#principal {
+  font-family: Arial, Helvetica, sans-serif; 
+    letter-spacing: 8px; 
+    text-align: center;
+    font-size: 40px;
+}
+#imagen{ 
+  float: right; 
+  padding-right:  10px;
+  padding-left: 10px;
+  width: 220px;
+  height: 220px;
+  border-radius: 10%;
+  }
+#presentacion{
+  font-size: 20px;
+}
+body{
+  margin-left: 350px;
+  margin-right: 350px;
+  background: lightblue;
+  background-image: url("https://wallpapercave.com/wp/wp4312259.jpg");
+}
+.normal .especial{
+  font-size: 16px;
+  font-weight: bold;
+}
+.normal .subtitulos{
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  color: gray;
+}
+.redessociales{
+  color: red;
+  font-size: 15px;
+  text-decoration: double;
+}
